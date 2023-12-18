@@ -1,4 +1,4 @@
-//package JAVA ASSIGNMENT 1;
+//Program to evaluate a series expansion upto unlimited terms
 import java.util.Scanner;
 public class seriessum {
     public static void main(String[] args) {
