@@ -1,5 +1,4 @@
-
-//Program to print out the square numbers, ten in a line, without using multiplication operator !
+//Program to print out the square numbers, ten in a line, without using multiplication operator 
 
 public class squarenumber {
     public static void main(String[] args) {
