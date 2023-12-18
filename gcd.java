@@ -1,3 +1,4 @@
+//Program to print gcd of two numbers
 import java.util.Scanner;
 public class gcd {
     public static void main(String []args) {
