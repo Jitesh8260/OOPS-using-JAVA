@@ -1,3 +1,4 @@
+//Write a Java program to test the number is prime or composite.
 import java.util.Scanner;
 public class checkprime {
     public static void main(String []args) {
