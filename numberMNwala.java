@@ -1,3 +1,9 @@
+/*Write a java program that will take input as two +ve integers M and N where M<N.
+a). The program will display the numbers between M and N, which are divisible by 3
+and 5.
+b). Count the numbers which are divisible by 3 and 5(between M and N), then add those
+numbers and display*/
+
 import java.util.Scanner;
 public class numberMNwala {
     public static void main(String []args) {
