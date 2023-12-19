@@ -1,4 +1,4 @@
-//My first java Program
+//Write a java program that will display “This is my first Java Program”
 class firstjavaprogram{
     public static void main(String []args) {
         int i;
