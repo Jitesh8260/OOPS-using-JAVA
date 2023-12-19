@@ -1,4 +1,4 @@
-//Program to evaluate a series expansion upto unlimited terms
+//Write a Java program that will evaluate the following exponential series.
 import java.util.Scanner;
 public class seriessum {
     public static void main(String[] args) {
